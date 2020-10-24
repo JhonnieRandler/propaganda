@@ -1,0 +1,40 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    background-color: #e6e6fa;
+    color: #191970;
+    font-family: Arial, Verdana, sans-serif;
+    box-sizing: border-box;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.titulo {
+    color: #e6e6fa;
+    background-color: #191970;
+    font-family: Georgia, 'Times New Roman', serif;
+    height: 5%;
+    padding: 2.5%;
+}
+.subtitulo {
+    color: #191970;
+    background-color: #aeaed4;
+    font-family: Georgia, 'Times New Roman', serif;
+    text-align: center;
+    margin-bottom: 0;
+}
+a {
+    color: #191970;
+    padding-right: 1%;
+}
+p {
+    text-indent: 3em;
+}
+ul {
+    font-weight: bolder;
+}
+.pontilhado {
+    border-top: dashed 3px #191970;
+    margin-top: 0;
+}
